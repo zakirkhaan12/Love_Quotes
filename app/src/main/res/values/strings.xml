@@ -1,41 +1,0 @@
-<resources>
-    <string name="app_name">كلام حب رومانسية</string>
-    <string name="title_activity_nav">nav</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
-
-
-    <string name="rate_dialog_title">قيم هذا التطبيق</string>
-    <string name="rate_dialog_message">💖💖💖💖💖 إذا كنت تستمتع بهذا التطبيق ، يرجى تقييمنا بخمس نجوم.</string>
-    <string name="rate_dialog_ok">قيمنا الآن</string>
-    <string name="rate_dialog_cancel">لا شكرا</string>
-    <string name="rate_dialog_no">ذكرني لاحقا</string>
-
-    <string name="menu_Policy">Privacy Policy</string>
-    <string name="menu_home">Home</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_rate">Rate Us</string>
-    <string name="menu_exit">Exit</string>
-    <string name="open_nav_drawer">Open navigaion drawer</string>
-    <string name="close_nav_drawer">Close navigation drawer</string>
-    <string name="toolber_title">كلام حب رومانسية</string>
-
-
-    <string name="First_love">الحب الاول</string>
-    <string name="Crush_quotes">اقتباسات سحق</string>
-    <string name="Falling_in_love">الوقوع في الحب</string>
-    <string name="Heart_touching">تلامس القلب</string>
-    <string name="Inspirational_love_quotes">ونقلت الحب ملهمة</string>
-    <string name="kiss_quotes">اقتباسات التقبيل</string>
-    <string name="Miss_you">أفتقدك</string>
-    <string name="Roamantic_love">حب رومانسي</string>
-    <string name="Sad_broken_heart">حزين القلب المكسور</string>
-    <string name="Sweet_love_quotes">ونقلت الحب الحلو</string>
-    <string name="Button">Read Now</string>
-
-
-</resources>
